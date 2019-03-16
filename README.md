@@ -7,3 +7,6 @@ Lion Or Tiger is a game in which two players seek in alternate turns to complete
 ![abc1](https://user-images.githubusercontent.com/33973666/54297713-64a2f180-45dd-11e9-9837-841a3a38c607.png)
 
 ![abc11](https://user-images.githubusercontent.com/33973666/54297804-8ef4af00-45dd-11e9-9b16-c9326f0de387.png)
+
+
+![ss1](https://user-images.githubusercontent.com/33973666/54474222-54228f00-4808-11e9-925c-3a1baae33a3c.png)
