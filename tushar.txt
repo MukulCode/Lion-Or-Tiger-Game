@@ -2,6 +2,6 @@
 #include<conio.h>
 void main()
 {
-cout<<"Hey,This is Tushar";
+pwd=cout<<"Hey,This is Tushar";
 getch();
 }
